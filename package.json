@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "lodash.range": "^3.2.0",
+    "mongoose": "^5.4.13",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-motion": "^0.5.2",
+    "react-scripts": "2.1.5",
+    "react-sortable-hoc": "^1.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
