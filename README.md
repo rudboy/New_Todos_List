@@ -29,14 +29,13 @@ See a live version running this template - https://todos-list-rudboy.herokuapp.c
 
 ```bash
 
-todo-client
+NEW-DOTO-LIST
 ├── public
 ├── src
 │   ├── assets
 │   │   ├── css
 │   ├── components
-│   │   ├── Footer
-│   │   └── Header
+│   │   └── handleDone
 │   ├── App.css
 │   ├── App.js
 │   ├── App.test.js
