@@ -2,6 +2,10 @@
 
 This is a to do list Web Application built with React.
 
+## Screenshot
+
+![screenshot of the Todo List Web App](./src/screenshot.png?raw=true "screenshot of The Todo List Web App")
+
 ## Usage example
 
 See a live version running this template - https://todos-list-rudboy.herokuapp.com/
@@ -54,7 +58,7 @@ NEW-DOTO-LIST
 Clone this repository :
 
 ```bash
-git clone https://github.com/rudboy/Todo-List.git
+git clone https://github.com/rudboy/New_Todos_List
 
 cd to-do-list
 ```
